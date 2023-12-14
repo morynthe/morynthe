@@ -1,14 +1,23 @@
 ### Hi there! ^-^
 
+#
+About me: completed a course at [School 21](https://21-school.ru/) as Manual Quality Assurance Engineer. 🌱
+- 🔭 I'm currently looking for opportunities to test my testing skills (~~pun intended~~)
 
-About me:  Was a student of a School 21 (QA'23). 🌱
-- 🔭 I'm currently looking for opportunities to test my testing skills lol
+ 
+<details>
+<summary> Work in progress ⏵ </summary>
 
->  -- Work in progress --
+```
+Initially, the Github account was more for training bc I was stored everything on the computer locally.
+Now here I will add updates to present as a resume and examples of my work for employers.
 
-⚡The Github account is mostly for training bc I store everything on the computer locally, so I will add updates for presenting as the resume.
-  
-🙇 *I hope for your understanding!* 🙇
+🙇 I hope for your understanding! 🙇
+```
+</details>
+
+#
+*Thanks for stopping by, much appreciated!* ✨
 
 <!--
 **morynthe/morynthe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
